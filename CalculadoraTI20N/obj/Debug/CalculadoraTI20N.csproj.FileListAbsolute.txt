@@ -1,0 +1,8 @@
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\bin\Debug\CalculadoraTI20N.exe.config
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\bin\Debug\CalculadoraTI20N.exe
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\bin\Debug\CalculadoraTI20N.pdb
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\obj\Debug\CalculadoraTI20N.csproj.AssemblyReference.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\obj\Debug\CalculadoraTI20N.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\obj\Debug\CalculadoraTI20N.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\obj\Debug\CalculadoraTI20N.exe
+C:\Users\pedro.hfalmeida3\source\repos\CalculadoraTI20N\CalculadoraTI20N\obj\Debug\CalculadoraTI20N.pdb
