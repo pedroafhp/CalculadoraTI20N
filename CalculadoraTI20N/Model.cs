@@ -49,7 +49,7 @@ namespace CalculadoraTI20N
 
         public double Dividir()
         {
-            if(ConsultarNum2 <= 0)
+            if (ConsultarNum2 <= 0)
             {
                 return -1;
             }
@@ -58,6 +58,40 @@ namespace CalculadoraTI20N
                 return ConsultarNum1 / ConsultarNum2;
             }
         }//Fim do Método Dividir
+
+        public string Tabuada()
+        {
+            string resultado = "";
+
+            resultado += "Tabuada de " + ConsultarNum1;
+            for (int i=0; i <= 10; i++)
+            {
+                resultado += "\n" + ConsultarNum1 + " * " + i + " = " + (ConsultarNum1* i);
+            }//Fim do For
+
+            resultado += "\n\nTabuada de " + ConsultarNum2;
+            for (int i = 0; i <= 10; i++)
+            {
+                resultado += "\n" + ConsultarNum2 + " * " + i + " = " + (ConsultarNum2 * i);
+            }//Fim do For
+
+            return resultado;
+        }//Fim do Método Tabuada
+
+        public string Raiz()
+        {
+            string resultado = "";
+
+            resultado = "A raiz de " + ConsultarNum1 + " é: " + Math.Sqrt(ConsultarNum1) +
+                        "\nA raiz de " + ConsultarNum2 + " é: " + Math.Sqrt(ConsultarNum2);
+
+            return resultado;
+        }//Fim do Raiz
+
+        public double Potencia()
+        {
+            return Math.Pow(ConsultarNum1, ConsultarNum2);
+        }//Fim do Potencia
 
     }//Fim da Classe
 }//Fim do Projeto
